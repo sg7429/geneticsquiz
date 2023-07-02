@@ -1,0 +1,48 @@
+{
+  "questions_gen": [
+    "1. The purine bases are: ",
+    "2. The pyrimidine bases are: ",
+    "3. Mitochondrial DNA is inherited from: ",
+    "4. Telomeres are: ",
+    "5. Which type of RNA is read by a ribosome\n in the process of synthesizing a protein?"
+  ],
+  "options_gen": [
+    [
+      "A and T",
+      "C and T",
+      "A and G",
+      "G and T"
+    ],
+    [
+      "A and T",
+      "C and T",
+      "A and G",
+      "G and T"
+    ],
+    [
+      "The mother",
+      "The father",
+      "The paternal grandmother",
+      "All of the above"
+    ],
+    [
+      "Chromosomal aberrations",
+      "A type of RNA",
+      "Regions of repetitive nucleotide sequences",
+      "None of the above"
+    ],
+    [
+      "rRNA",
+      "tRNA",
+      "snRNA",
+      "mRNA"
+    ]
+  ],
+  "answers_gen": [
+    3,
+    2,
+    1,
+    3,
+    4
+  ]
+}
